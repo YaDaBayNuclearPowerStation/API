@@ -1,4 +1,4 @@
-{
+local PERMITTED_PLAYERS = {
 	[9544776726] = { -- @AirBusFG15172 [Owner]
 		["BANNABLE"] = true;
 		["KICKABLE"] = true;
@@ -20,3 +20,5 @@
 		["TIER"] = 10
 	}
 }
+
+return PERMITTED_PLAYERS
