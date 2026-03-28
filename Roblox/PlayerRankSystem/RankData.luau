@@ -5,8 +5,8 @@ local RankData = {
 	--
 	Developer = {},
 
-	-- himhimjef
-	SubDeveloper = {3631726328},
+	--
+	SubDeveloper = {},
 
     -- shan3378
     Tester = {5283950250}
