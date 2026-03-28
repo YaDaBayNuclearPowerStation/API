@@ -1,6 +1,6 @@
 local RankData = {
 	-- AirBusFG15172, TseHongYeung0120, Artem_123456red
-	Owner = {9544776726, 3434584503, 3264020093},
+    Owner = {9544776726, 3434584503, 3264020093},
 
 	--
 	Developer = {},
