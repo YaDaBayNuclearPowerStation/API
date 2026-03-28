@@ -8,7 +8,8 @@ local RankData = {
 	-- himhimjef
 	SubDeveloper = {3631726328}
 
-    Tester={}
+    -- shan3378
+    Tester={5283950250}
 }
 
 return RankData
